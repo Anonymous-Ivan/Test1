@@ -1,6 +1,6 @@
 # Ivan Kovun Andreevich 222 33
 def my_superfunction():
-    print('What an awesome print!')
+    print('YandexLyceum')
 
 
 def main():
